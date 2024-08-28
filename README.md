@@ -11,16 +11,20 @@ Berdasarkan analisis yang dilakukan, diperoleh beberapa kesimpulan penting, anta
 Wilayah dengan Permintaan Tinggi:
 
 Borough di Kota New York dengan jumlah perjalanan tertinggi secara berurutan adalah:
+
 Manhattan
 Queens
 Brooklyn
 Bronx
 Staten Island
+
 Zona dengan jumlah perjalanan tinggi mencakup: East Harlem North, East Harlem South, Forest Hills, Central Harlem, Morningside Heights, Central Park, Elmhurst, Fort Greene, Astoria, dan Washington Heights South.
+
 Waktu dengan Permintaan Tinggi:
 
 Hari Kerja: Permintaan tinggi terjadi pada pukul 15:00 hingga 18:00, terutama pada hari Selasa.
 Akhir Pekan: Permintaan tinggi terjadi pada hari Sabtu, antara pukul 13:00 hingga 15:00.
+
 Hasil Uji Statistik:
 
 Berdasarkan uji normalitas, data mengenai Durasi Perjalanan, Jarak Perjalanan, Jumlah Tarif, dan Jumlah Tip tidak terdistribusi secara normal.
