@@ -1,8 +1,11 @@
 Analisis Permintaan Perjalanan Taksi di Kota New York - Januari 2023
+
 Deskripsi Proyek
+
 Proyek ini bertujuan untuk menganalisis pola permintaan perjalanan taksi di Kota New York selama bulan Januari 2023. Analisis dilakukan berdasarkan data perjalanan taksi, dengan fokus pada identifikasi wilayah dan waktu dengan permintaan tinggi, serta memahami perbedaan karakteristik perjalanan antara jam sibuk dan jam normal.
 
 Hasil Analisis
+
 Berdasarkan analisis yang dilakukan, diperoleh beberapa kesimpulan penting, antara lain:
 
 Wilayah dengan Permintaan Tinggi:
